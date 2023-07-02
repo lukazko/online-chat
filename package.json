@@ -1,0 +1,6 @@
+{
+  "homepage": "https://lukazko.github.io/online-chat",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
