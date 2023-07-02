@@ -31,7 +31,7 @@ function App() {
           />
           <input
             type="text"
-            placeholder="Chatroom ID..."
+            placeholder="Chatroom ID zatím..."
             onChange={(event) => {
               setRoom(event.target.value);
             }}
